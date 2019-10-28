@@ -10,9 +10,9 @@ Created by React
 點選`Article`所list的標題,可以進入每一個文章內文.
 
 ## 技術
-React
-Ajax
-axios
+- React
+- Ajax
+- axios
 
 ## 環境
 使用 webpack 直接架設 react 開發環境
