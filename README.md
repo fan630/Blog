@@ -5,7 +5,9 @@ Created by React
 [Blog](https://fan630.github.io/Blog/dist/index.html)
 
 ## 介紹
-這是 Lidemy 程式導師實驗計畫第 21 週的第三個作業，使用老師提供的一支 blog 內容 API，做出一個部落格。
+這是 Lidemy 程式導師實驗計畫第 21 週的第三個作業，使用老師提供的一支 blog 內容 API，做出一個部落格.  
+
+點選`Article`所list的標題,可以進入每一個文章內文.
 
 ## 技術
 React
